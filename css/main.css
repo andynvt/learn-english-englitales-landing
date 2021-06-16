@@ -1553,12 +1553,12 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*Section heading style-4*/
 .section-heading-4 h2 {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   color: #1F1F1F;
   font-size: 34px;
   font-weight: 700;
   font-style: normal;
-  letter-spacing: -3px;
+  letter-spacing: 0px;
   line-height: 44px;
   margin-bottom: 35px;
 }
@@ -1578,7 +1578,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-4 p {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   color: #333333;
   font-size: 21px;
   font-weight: 400;
@@ -1615,7 +1615,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-5 p {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   color: #333333;
   font-size: 21px;
   font-weight: 400;
@@ -1652,7 +1652,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-6 p {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   color: #333333;
   font-size: 21px;
   font-weight: 400;
@@ -1664,12 +1664,12 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*Section heading style-7*/
 .section-heading-7 h2 {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   color: #1F1F1F;
   font-size: 34px;
   font-weight: 700;
   font-style: normal;
-  letter-spacing: -5px;
+  letter-spacing: 0px;
   line-height: 38px;
   margin-bottom: 35px;
 }
@@ -1727,7 +1727,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 @media (min-width: 768px) {
   .section-heading-8 h2 {
-    letter-spacing: -3px;
+    letter-spacing: 0px;
     font-size: 48px;
     line-height: 62px;
   }
@@ -1735,14 +1735,14 @@ li.sub-menu--item.nav-item-has-children i {
 
 @media (min-width: 992px) {
   .section-heading-8 h2 {
-    letter-spacing: -5px;
+    letter-spacing: 0px;
     font-size: 60px;
     line-height: 74px;
   }
 }
 
 .section-heading-8 p {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: normal;
   font-size: 21px;
@@ -1754,7 +1754,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*Section heading style-9*/
 .section-heading-9 h2 {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   color: #1F1F1F;
   font-size: 34px;
   font-weight: 700;
@@ -1779,7 +1779,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-9 p {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -1962,7 +1962,7 @@ li.sub-menu--item.nav-item-has-children i {
    Hero Area-L4
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-13-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -1975,7 +1975,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .landing-13-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -2037,12 +2037,12 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .hero-area-l-13 .content h1 {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: bold;
   font-size: 34px;
   line-height: 40px;
-  letter-spacing: -5px;
+  letter-spacing: 0px;
   color: #1F1F1F;
   margin-bottom: 10px;
 }
@@ -2084,7 +2084,7 @@ li.sub-menu--item.nav-item-has-children i {
   height: 60px;
   background: #FC593B;
   border-radius: 5px;
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -2125,7 +2125,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .header-btn-l-13 .download-btn {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -2324,7 +2324,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .testimonial-area-l-13 .testimonial-card .content-body h5 {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -2335,7 +2335,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .testimonial-area-l-13 .testimonial-card .content-body p {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -2368,7 +2368,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .cta-area-l-13 .content span {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -2380,13 +2380,13 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .cta-area-l-13 .content h2 {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: bold;
   font-size: 42px;
   line-height: 52px;
   text-align: center;
-  letter-spacing: -5px;
+  letter-spacing: 0px;
   color: #1F1F1F;
   margin: 40px 0px 50px 0px;
 }
@@ -2444,23 +2444,23 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .footer-widget-l-13 ul li a {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
   line-height: 28px;
   text-align: center;
-  letter-spacing: -0.642857px;
+  letter-spacing: -0.3px;
   color: #333333;
 }
 
 .copyright-area-l-13 p {
-  font-family: Karla;
+  font-family: Barlow Semi Condensed;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
   line-height: 28px;
-  letter-spacing: -0.642857px;
+  letter-spacing: -0.3px;
   color: #666666;
   margin-bottom: 0;
 }
